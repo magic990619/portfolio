@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Blake's Portfolio",
+  title: "Magic's Portfolio",
   description:
     "Hands-on, successful Software Engineer with decades of veriﬁable success leading teams in delivering appropriate technology solutions for Web2 and Web3 products.",
   og: {
-    title: "Blake Lin Portfolio",
+    title: "Magic Dev Portfolio",
     type: "website",
     url: "http://magic990619.github.io/",
   },
@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Blake Lin",
-  logo_name: "BlakeLin",
+  title: "Magic Dev",
+  logo_name: "MagicDev",
   nickname: "magic-dev",
   subTitle:
     "Hands-on, successful Software Engineer with decades of veriﬁable success leading teams in delivering appropriate technology solutions for Web2 and Web3 products.",
@@ -37,7 +37,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "mailto:blakelin1028@gmail.com",
+    link: "mailto:magicrjh0619@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -539,12 +539,11 @@ const contactPageData = {
   },
   addressSection: {
     title: "Email",
-    subtitle:
-      "blakelin1028@gmail.com",
+    subtitle: "magicrjh0619@gmail.com",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+1 662 612 0893",
+    subtitle: "+1 252 542 8597",
   },
 };
 
